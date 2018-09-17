@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org-apache-ws-commons-util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org-apache-ws-commons-util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
